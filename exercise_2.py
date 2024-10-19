@@ -40,7 +40,7 @@ def array123(nums):
     return False
 
 
-def strings_match(a, b):
+def string_match(a, b):
     num = 0
 
     len1 = len(a)
