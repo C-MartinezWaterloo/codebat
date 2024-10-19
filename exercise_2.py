@@ -152,31 +152,6 @@ def next_digit_pi():
 
     return var
 
-if __name__ == "__main__":
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
